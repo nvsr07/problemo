@@ -6,3 +6,4 @@ I have created this repo to share my solutions to algorithm & data structure pro
 1. [WalmartLabs](https://github.com/farruhha/problemo/tree/master/src/leetcode/walmart_labs)
 2. [Google](https://github.com/farruhha/problemo/tree/master/src/leetcode/google)
 3. [Linkedin](https://github.com/farruhha/problemo/tree/master/src/leetcode/linkedin)
+4. [Amazon](https://github.com/farruhha/problemo/tree/master/src/leetcode/amazon)
