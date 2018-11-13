@@ -8,3 +8,4 @@ I have created this repo to share my solutions to algorithm & data structure pro
 3. [Linkedin](https://github.com/farruhha/problemo/tree/master/src/leetcode/linkedin)
 4. [Amazon](https://github.com/farruhha/problemo/tree/master/src/leetcode/amazon)
 5. [PayPal](https://github.com/farruhha/problemo/tree/master/src/leetcode/paypal)
+6. [Microsoft]()
