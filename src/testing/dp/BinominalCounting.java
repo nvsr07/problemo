@@ -1,4 +1,4 @@
-package leetcode.testing.dp;
+package testing.dp;
 
 public class BinominalCounting {
     /**

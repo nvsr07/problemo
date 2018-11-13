@@ -1,4 +1,4 @@
-package leetcode.walmart_labs;
+package leetcode.paypal;
 
 import java.util.HashMap;
 import java.util.Map;

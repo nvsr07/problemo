@@ -1,5 +1,7 @@
 package leetcode.amazon;
 
+import java.text.DecimalFormat;
+
 public class MinCostClimbingStairs {
     /**
      *
@@ -21,6 +23,5 @@ public class MinCostClimbingStairs {
 
     /**
      * https://leetcode.com/problems/min-cost-climbing-stairs/*/
-
 
 }
