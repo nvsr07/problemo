@@ -28,6 +28,7 @@ public class RotateList {
         ListNode(int x) { val = x; }
   }
     public ListNode rotateRight(ListNode head, int k) {
+         int a;
         return null;
     }
 }
