@@ -23,5 +23,15 @@ public class MinCostClimbingStairs {
 
     /**
      * https://leetcode.com/problems/min-cost-climbing-stairs/*/
+    public int minCostClimbingStairs(int[] cost) {
+        int F1 = 0;
+        int F2 = 0;
 
+        for(int i = cost.length - 1; i >= 0; i--){
+            int F0 = cost[i] + Math.min(F1, F2);
+            F2 = F1;
+            F1 = F0;
+        }
+        return Math.min(F1, F2);
+    }
 }
