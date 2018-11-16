@@ -22,6 +22,7 @@ I have created this repo to share my solutions to algorithm & data structure pro
 17. [Tencent](https://github.com/farruhha/problemo/tree/master/src/leetcode/tencet)
 18. [Lyft](https://github.com/farruhha/problemo/tree/master/src/leetcode/lyft)
 19. [DoorDash](https://github.com/farruhha/problemo/tree/master/src/leetcode/doordash)
+19. [Salesforce](https://github.com/farruhha/problemo/tree/master/src/leetcode/salesforce)
 
 
 
