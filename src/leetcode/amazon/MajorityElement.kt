@@ -1,4 +1,4 @@
-package leetcode.google
+package leetcode.amazon
 
 class MajorityElement {
     fun majorityElement(nums: IntArray): Int {
